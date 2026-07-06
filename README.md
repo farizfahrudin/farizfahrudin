@@ -4,9 +4,7 @@
 
 ###
 
-<div align="center">
-  <img src="banner.gif" width="100%">
-</div>
+![farizfahrudin](gif/banner.gif)
 
 ###
 
