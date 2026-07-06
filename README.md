@@ -5,9 +5,11 @@
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/Sovereign">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sovereign&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 ###
 
 <div data-importer="techs" align="left">
