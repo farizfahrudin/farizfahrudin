@@ -5,12 +5,8 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="c:\Users\FARIZ FAHRUDIN\Downloads\WhatsApp-Video-2026-07-06-at-23.46.51.gif"  />
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/WhatsApp-Video-2026-07-06-at-23.46.51.gif"  />
 </div>
-
-###
-
-<h3 data-importer="text" align="left">About Me</h3>
 
 ###
 
