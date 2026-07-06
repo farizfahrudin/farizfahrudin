@@ -1,15 +1,16 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+
+### 
+
+</div>
+
 <h1 data-importer="text" align="center">hey there 👋</h1>
 
 ###
 
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
-###
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Sovereign">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sovereign&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 ###
 
 <div data-importer="techs" align="left">
