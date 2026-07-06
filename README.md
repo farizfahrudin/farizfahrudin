@@ -4,8 +4,8 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/WhatsApp-Video-2026-07-06-at-23.46.51.gif"  />
+<div align="center">
+  <img src="assets/banner.gif" width="100%">
 </div>
 
 ###
