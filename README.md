@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src=".github/assets/banner.gif" width="100%">
+  <img src="assets/banner.gif" width="100%">
 </div>
 
 ###
