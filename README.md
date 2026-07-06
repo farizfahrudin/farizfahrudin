@@ -4,7 +4,7 @@
 
 ###
 
-![farizfahrudin](gif/banner.gif)
+![farizfahrudin](gif/pp.gif)
 
 ###
 
